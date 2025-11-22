@@ -18,8 +18,7 @@ Dashboards are based on fully anonymous, aggregated retail data and demonstrate:
 I designed the relational schema, created fact/dimension tables, and generated realistic operational data following 
 true inventory and purchase-order lifecycles (stock aging, stockouts, branch distribution, lead time variance, vendor 
 performance patterns, etc.).
-
-This demonstrates my ability to build complete analytics systems end-to-end — from data modeling and simulation, to 
+> This demonstrates my ability to build complete analytics systems end-to-end — from data modeling and simulation, to 
 DAX, visualization, and KPI engineering.
 
 ---
