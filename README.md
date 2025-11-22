@@ -14,6 +14,13 @@ Dashboards are based on fully anonymous, aggregated retail data and demonstrate:
 
 > ⚠️ **Note:** Several dashboards I developed that integrate **machine learning models** (forecasting, anomaly detection, predictive sales) cannot be shared publicly due to confidentiality.  
 > What is included here represents only a portion of my BI work.
+> To respect confidentiality, all dashboards are based on a fully synthetic database that I engineered myself.  
+I designed the relational schema, created fact/dimension tables, and generated realistic operational data following 
+true inventory and purchase-order lifecycles (stock aging, stockouts, branch distribution, lead time variance, vendor 
+performance patterns, etc.).
+
+This demonstrates my ability to build complete analytics systems end-to-end — from data modeling and simulation, to 
+DAX, visualization, and KPI engineering.
 
 ---
 
